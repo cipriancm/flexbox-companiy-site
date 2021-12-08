@@ -45,7 +45,7 @@ body {
 }
 
 .mission-container {
-    background-image: url('/Users/ciprianciomag/Documents/CodeAcademy/flexbox-business-site-starting/Res/Img/logistics-3125131_1920.jpg');
+    background-image: url('https://github.com/cipriancm/flexbox-companiy-site/blob/main/Res/Img/logistics-3125131_1920.jpg');
     filter: blur(2px);
     -webkit-filter: blur(2px);
     background-repeat: no-repeat;
